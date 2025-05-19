@@ -1,0 +1,18 @@
+/* responsive */
+@media (max-width: 768px){
+    .about-content-container{
+        justify-content: center;
+    }
+    .about-img{
+        margin-bottom: 50px;
+    }
+    .img-border{
+        border:none;
+    }
+    .about-info li{
+        width: 100%;
+    }
+    .feedback-content{
+        padding: 40px;
+    }
+}
